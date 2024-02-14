@@ -1,5 +1,5 @@
 # 💫 About Me:
-- software engineer @ Google <br>- interested in ml, crypto and cloud<br><br>
+- software engineer <br>- LLMs, ML, MLOps <br><br>
 
 
 ## 🌐 Socials:
