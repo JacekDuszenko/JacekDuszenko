@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Software engineer interested in Python and distributed systems.
-- I sometimes write on ![Medium](medium.com/@jacekduszenko).
+- I sometimes write on [Medium](https://www.medium.com/@jacekduszenko).
 
 
 ## 🌐 Socials:
